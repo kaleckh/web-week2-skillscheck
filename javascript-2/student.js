@@ -14,12 +14,12 @@ var age = 20
 //////////////////STEP 3////////////////////
 //Create a variable called 'name' and assign it a value of your name as a string.  
 
-var name = "kale"
+let name = "kale"
 
 //////////////////STEP 4////////////////////
 //Create a variable called 'phrase' that is initialized as an empty string. 
 
-var phrase = ""
+let phrase = ""
 
 //////////////////STEP 5////////////////////
 //Create an if statement that checks to see if the lovesCode variable is equal to true. If it is, set the phrase variable created above to 'I love code', it it's not true set the phrase variable to 'I do not love to code'
